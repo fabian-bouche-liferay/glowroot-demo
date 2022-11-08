@@ -1,0 +1,6 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	compileOnly group: "org.slf4j", name: "slf4j-api"
+	compileInclude group: 'org.apache.commons', name: 'commons-imaging', version: '1.0-alpha3'
+	compileInclude group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.10'
+}
