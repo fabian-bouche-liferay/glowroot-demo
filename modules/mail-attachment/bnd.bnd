@@ -1,0 +1,7 @@
+Bundle-Name: mail-attachment
+Bundle-SymbolicName: com.liferay.samples.fbo.email.attachment
+Bundle-Version: 1.0.0
+
+Import-Package:\
+	javax.activation;version="1.0.0",\
+	*
